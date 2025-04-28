@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Blackjack">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Blackjack.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NHF_blackjack.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
